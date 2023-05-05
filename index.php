@@ -56,7 +56,7 @@ $_SESSION['currentpage'] = "home";
 
 <body>
     <h1>CAMM Core Service Testing</h1>
-    <?php include 'includes/dbconnect.php'; ?>
+    <?php //include 'includes/dbconnect.php'; ?>
     <div class="mainpage">
         <div class="box">
             <h2>Service Details</h2>
